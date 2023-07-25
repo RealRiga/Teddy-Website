@@ -150,6 +150,9 @@ header{
     cursor: pointer;
     z-index: 1;
 } */
+
+
+/* For the signup section */
 .form-box.register{
     border: 2px inset grey;
     border-radius: 10px;
